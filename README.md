@@ -23,3 +23,13 @@ Another benefit is that it improves the of characters that do not require a posi
 
 ## TBD
 Decide on the W-B swap. Keep in mind the mb bigram for example.
+
+## Metrics
+The Nerbak layout compared to Qwerty and Colemak DH. I consider these to be the main competitors.
+
+Oxey Playground
+
+|   Layout   |  SFB  |
+|------------|-------|
+|   Qwerty   | 6.615 |
+| Colemak DH | 1.387 |

@@ -29,7 +29,8 @@ The Nerbak layout compared to Qwerty and Colemak DH. I consider these to be the 
 
 Oxey Playground
 
-|   Layout   |  SFB  |
-|------------|-------|
-|   Qwerty   | 6.615 |
-| Colemak DH | 1.387 |
+|   Layout   |  SFB  |  DSFB  |  LSB  |
+|------------|-------|--------|-------|
+|   Qwerty   | 6.615 | 11.169 | 6.882 |
+| Colemak DH | 1.387 | 8.877  | 1.957 |
+|   Nerbak   | 1.059 | 7.529  | 1.564 |

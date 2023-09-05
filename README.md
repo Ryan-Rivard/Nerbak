@@ -18,4 +18,5 @@ Nerbak Columnar
 Nerbak Angle Mod
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/06ce4c58-b810-4e27-b348-22a25ea8de14)
 
-
+## TBD
+Decide on the W-B swap. Keep in mind the mb bigram for example.

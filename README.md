@@ -17,6 +17,8 @@ Nerbak Columnar
 
 Nerbak Angle Mod
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/06ce4c58-b810-4e27-b348-22a25ea8de14)
+I would recomend the Angle Mod on an Ansi Keyboard. The row stagger creates some easier to reach keys (Qwerty T for the left hand and Qwerty N for the right) but also some harder to reach keys (Qwerty B for the left hand and Qwerty Y for the right hand).
+Without the angle mod V gets put on the hardest left hand key, but with the angle mod instead it is Z. Considering 1) V is more common than Z and 2) ctrl+v is often used with the right hand on the mouse while ctrl+z is more often used with both hands on the keyboard.
 
 ## TBD
 Decide on the W-B swap. Keep in mind the mb bigram for example.

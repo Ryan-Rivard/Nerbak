@@ -16,6 +16,6 @@ Nerbak Columnar
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/dd5586ec-0670-40a0-90bf-187d61d754ed)
 
 Nerbak Angle Mod
-![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/22f742d3-d16c-42d0-af64-f47a53a5ca06)
+![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/06ce4c58-b810-4e27-b348-22a25ea8de14)
 
 

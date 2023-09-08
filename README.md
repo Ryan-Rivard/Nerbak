@@ -10,10 +10,12 @@ The modern English speaking world is stuck in our ways, Everyday we interact wit
 
 ### Dvorak
 Created 1936 by August Dvorak
+
 Adopted Methodologies
 1. The most common letters should be placed on the home row keys to limit total finger travel
 2. All vowels should be placed on one side of the keyboard to increase alternation which anecdotally limits hand fatigue
 3. Fix some of Qwerty's worst same finger bigrams (ED/DE, CE if you don't alt finger C, LO, UN, RT, CT if you do alt finger C, etc.)
+
 Pitfalls
 1. Very low similarities to Qwerty makes it more difficult to learn
 2. Common computer shortcuts (ZXCV) are no longer nccessible with one hand
@@ -21,10 +23,12 @@ Pitfalls
 
 ### Colemak
 Created in 2006 by Shai Coleman
+
 Adopted Methodologies
 1. High similarities to Qwerty make it far easier for Qwerty users to learn
 2. Common computer shortcuts (ZXCV) retain their orinal position
 3. Fix most of both Qwerty and Dvorak's worse same finger bigrams
+
 Pitfalls
 1. The D and H keys being in the center column creates lateral shift bigrams which cause uncomfortable stretching (especially the HE bigram). This is also an issue with Dvorak as well
 2. With the focus on rolls rather than alternation there is a higher number of redirects (YOU as particularly bad example)

@@ -5,17 +5,29 @@ Currently a WIP
 
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/f2e45729-217e-49c4-9b47-82f1b812885c)
 
-## Introduction
-The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an interface that was designed in the 1870s. 
-
-### Qwerty
-There are plenty of articles and videos that delve more into the Qwerty keyboard layout and its flaws, I will not rehash them here,
+## History
+The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an interface that was designed in the 1870s. There are plenty of articles and videos that delve more into the Qwerty keyboard layout and its flaws, I will not rehash them here, There are many layouts that have been created attempting to dethrown Qwerty, I have highlighted the ones below that influenced the creation of Nerbak, as well as listed their methodologies that Nerbak adopted and their flaws that Nerbak tried to avoid.
 
 ### Dvorak
-Attempts to rectify this issue started in 1936 with the patent for the Dvorak keyboard layout by August Dvorak. Even back then it was recognized that Qwerty being the default layout for Typewriters was absurdly inefficient. His design philosophy wa
+Created 1936 by August Dvorak
+Adopted Methodologies
+1. The most common letters should be placed on the home row keys to limit total finger travel
+2. All vowels should be placed on one side of the keyboard to increase alternation which anecdotally limits hand fatigue
+3. Fix some of Qwerty's worst same finger bigrams (ED/DE, CE if you don't alt finger C, LO, UN, RT, CT if you do alt finger C, etc.)
+Pitfalls
+1. Very low similarities to Qwerty makes it more difficult to learn
+2. Common computer shortcuts (ZXCV) are no longer nccessible with one hand
+3. Still a high frequency of same finger bigrams (GH, E., CT, RN, UP, etc.) 
 
 ### Colemak
-Some blurb on Colemak
+Created in 2006 by Shai Coleman
+Adopted Methodologies
+1. High similarities to Qwerty make it far easier for Qwerty users to learn
+2. Common computer shortcuts (ZXCV) retain their orinal position
+3. Fix most of both Qwerty and Dvorak's worse same finger bigrams
+Pitfalls
+1. The D and H keys being in the center column creates lateral shift bigrams which cause uncomfortable stretching (especially the HE bigram). This is also an issue with Dvorak as well
+2. With the focus on rolls rather than alternation there is a higher number of redirects (YOU as particularly bad example)
 
 ### Workman
 Some stuff on Workman

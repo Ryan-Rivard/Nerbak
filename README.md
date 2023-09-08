@@ -5,9 +5,26 @@ Currently a WIP
 
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/f2e45729-217e-49c4-9b47-82f1b812885c)
 
-
 ## Introduction
-The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an inteface that was designed in the 1870s. There are plenty of articles and videos that delve more into the Qwerty layout and its flaws, I will not rehash them here
+The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an interface that was designed in the 1870s. 
+
+### Qwerty
+There are plenty of articles and videos that delve more into the Qwerty keyboard layout and its flaws, I will not rehash them here,
+
+### Dvorak
+Attempts to rectify this issue started in 1936 with the patent for the Dvorak keyboard layout by August Dvorak. Even back then it was recognized that Qwerty being the default layout for Typewriters was absurdly inefficient. His design philosophy wa
+
+### Colemak
+Some blurb on Colemak
+
+### Workman
+Some stuff on Workman
+
+### Colemak DH
+Some stuff on Colemak DH
+
+### Nerts / Nerps
+Some stuff on Nerts / Nerps
 
 ## Goals
 One of the most common recommendations alternative layouts is Colemak DH. It boasts vast metric improvements on Qwerty, while being easy to learn and keeping the common shortcut keys (ZXCV) accessible.

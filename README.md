@@ -32,7 +32,7 @@ Adopted Methodologies
 4. Minimized ring and pinky finger usage
 
 Pitfalls
-1. The D and H keys being in the center column creates lateral shift bigrams which cause uncomfortable stretching (especially the HE bigram). This is also an issue with Dvorak as well
+1. The D and H keys being in the center column creates lateral shift bigrams which cause uncomfortable stretching (especially the HE bigram). Dvorak also has high frequency letters on its center column, but its natural alternation helps prevent the lateral stretch issue
 2. With the focus on rolls rather than alternation there is a higher number of redirects (YOU as particularly bad example)
 3. Punctuation retain their original positions in an attempt to make the layout more similar to qwerty, but the trade off is that punctuntion same finger bigrams are noticibly bad
 
@@ -40,7 +40,12 @@ Pitfalls
 Created in 2010 by OJ Bucao
 
 Adopted Methodology
-1. more to come
+1. Fingers reaching and curling are more comfortable than stretching horizontally. Most common letters are on the home keys, not the home row
+2. Fingers have their natural motion taken into account. Index and Pinky fingers are shorter and prefer to curl while Middle and Ring fingers are longer and prefer to stretch. Index and Middle fingers are stronger and can handle more work while Ring and Pinky fingers are weaker and should handle less week
+3. Common computer keyboard shortcuts (ZXCV) are still accessible
+
+Pitfalls
+1. Same finger bigrams are a huge step back, even worse than Dvorak (LY, E,, PO/OP, CT, ect.)
 
 ### Colemak DH
 Some stuff on Colemak DH

@@ -1,6 +1,6 @@
 # Nerbak
 
-A modern alternative to the Qwerty, Dvorak, and Colemak keyboard layouts. Designed to be a general purpose efficent, ergonomic, and balanced layout.
+A modern alternative to the Qwerty, Dvorak, and Colemak keyboard layouts. Designed to be a general purpose, efficent, ergonomic, and balanced layout.
 Currently a WIP
 
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/f2e45729-217e-49c4-9b47-82f1b812885c)
@@ -19,7 +19,8 @@ Adopted Methodologies
 Pitfalls
 1. Very low similarities to Qwerty makes it more difficult to learn
 2. Common computer shortcuts (ZXCV) are no longer nccessible with one hand
-3. Still a high frequency of same finger bigrams (GH, E., CT, RN, UP, etc.) 
+3. Still a high frequency of same finger bigrams (GH, E., CT, RN, UP, etc.)
+4. High right hand pinky and ring finger usage 
 
 ### Colemak
 Created in 2006 by Shai Coleman
@@ -28,13 +29,18 @@ Adopted Methodologies
 1. High similarities to Qwerty make it far easier for Qwerty users to learn
 2. Common computer shortcuts (ZXCV) retain their orinal position
 3. Fix most of both Qwerty and Dvorak's worse same finger bigrams
+4. Minimized ring and pinky finger usage
 
 Pitfalls
 1. The D and H keys being in the center column creates lateral shift bigrams which cause uncomfortable stretching (especially the HE bigram). This is also an issue with Dvorak as well
 2. With the focus on rolls rather than alternation there is a higher number of redirects (YOU as particularly bad example)
+3. Punctuation retain their original positions in an attempt to make the layout more similar to qwerty, but the trade off is that punctuntion same finger bigrams are noticibly bad
 
 ### Workman
-Some stuff on Workman
+Created in 2010 by OJ Bucao
+
+Adopted Methodology
+1. more to come
 
 ### Colemak DH
 Some stuff on Colemak DH

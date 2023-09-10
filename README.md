@@ -8,6 +8,16 @@ Currently a WIP
 ## Heat Map
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/4a7137bc-7abe-40fe-913b-c3e291b90581)
 
+## Goals
+Read more about the the design theories [here](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit)
+
+- High alternation
+- Low redirects
+- Low Same Finger Bigrams and Same Finger Skipgrams / Disjointed Same Finger Bigrams
+- Low Ring Finger and Pinky Finger usage and Same Finger Bigrams
+- Common Keyboard shortcuts (ZXCV) remain accessible
+
+
 ## History
 The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an interface that was designed in the 1870s. There are plenty of articles and videos that delve more into the Qwerty keyboard layout and its flaws, I will not rehash them here, There are many layouts that have been created attempting to dethrown Qwerty, I have highlighted the ones below that influenced the creation of Nerbak, as well as listed their methodologies that Nerbak adopted and their flaws that Nerbak tried to avoid.
 

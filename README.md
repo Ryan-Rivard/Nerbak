@@ -1,5 +1,5 @@
 # Nerbak
-An easy to use alternative keyboard layout implemented with modern design theories, Designed to be a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
+An easy to use alternative keyboard layout implemented with modern design theories. Designed to be a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
 Currently a WIP
 
 ## Finger Map

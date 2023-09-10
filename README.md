@@ -8,6 +8,9 @@ Currently a WIP
 ## Heat Map
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/4a7137bc-7abe-40fe-913b-c3e291b90581)
 
+## ANSI Layout with Angle Mod
+![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/1c7d2e2a-80da-43c7-953b-e64f43d03e28)
+
 ## Goals
 Read more about the the design theories [here](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit)
 

@@ -23,7 +23,15 @@ Read more about the the design theories [here](https://docs.google.com/document/
 ## Etymology
 Nerbak takes most of its inspiration from the Nerps layout which is itself a modification of the Nerts layout. The P-B switch was inspired from the Gallium / Graphite / Maya layouts. And the X-Q-J-Z swap to create the ZXMCV row was insipired by the Colemak-DH ZXCDV row,
 
-As the Nerts / Nerps naming convention was already estabilshed, I internally refered to the P-B swap layout as Nerbs. Add in the Colemak-DH-esq keyboard shortcuts and I added in the Dvorak / Colemak naming convention to arrive at Nerbak,
+As the Nerts / Nerps naming convention was already estabilshed, I internally refered to the P-B swap layout as Nerbs. Add in the Colemak-DH-esq keyboard shortcuts and I added in the Dvorak / Colemak naming convention to arrive at Nerbak.
+
+## Optional Modifications
+1. W-B swap
+2. Z-V swap on columnar
+3. J-/ swap especially on ansi
+4. '-/ swap
+5. J-/-' swap
+6. K-Y swap on ansi
 
 ## History
 The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an interface that was designed in the 1870s. There are plenty of articles and videos that delve more into the Qwerty keyboard layout and its flaws, I will not rehash them here, There are many layouts that have been created attempting to dethrown Qwerty, I have highlighted the ones below that influenced the creation of Nerbak, as well as listed their methodologies that Nerbak adopted and their flaws that Nerbak tried to avoid.

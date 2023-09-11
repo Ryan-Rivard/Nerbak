@@ -2,13 +2,13 @@
 An easy to use alternative keyboard layout implemented with modern design theories. Designed to be a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
 Currently a WIP
 
-## Finger Map
+### Finger Map
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/f2e45729-217e-49c4-9b47-82f1b812885c)
 
-## Heat Map
+### Heat Map
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/4a7137bc-7abe-40fe-913b-c3e291b90581)
 
-## ANSI Layout with Angle Mod
+### ANSI Layout with Angle Mod
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/1c7d2e2a-80da-43c7-953b-e64f43d03e28)
 
 ## Goals

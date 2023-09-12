@@ -31,6 +31,14 @@ Balance is difficult to compare and contrast across multiple layouts as the raw 
 2. Left Right Weak and Left Right Strong balance - are the weak fingers (Pinky and Ring) on one hand balanced compared to the other? And same with the strong fingers (Index and Middle)
 3. Weak Strong Balance - What is the balance of work between all Weak fingers and all Strong fingers. This does not have a subjectively correct answer, but will help us see each layouts requirement for strong and/or dexterous Pinky and Ring fingers
 
+ORRRRRR we could look at it like this
+- Balance between hands
+  - left / right
+  - left weak / right weak
+  - left strong / right strong
+- Balance within the hands
+  - weak / strong
+
 #### Left Right Balance
 Represented here as 1 - (Left hand usage / Right hand usage). Closer to 0 means more balanced, positive numbers are Right hand dominant, negative numbers are Left hand dominant
 

@@ -29,9 +29,9 @@ The Nerbak layout compared to Qwerty, Dvorak, Colemak, and Colemak DH. I conside
 - Lateral Stretch Bigram (LSB): Reaching the index finger to a center column letter immedately before or after a middle finger letter on the same hand, limiting can improve typing comfort
 - Half-Scissor Bigram (HSB): Two finger bigram where the outside finger is one row lower than the inside finger (either top and home row or home and bottom row)
 - Full-Scissor Bigram (FSB): Two finger bigram where the outside finger is on the bottom row and the inside finger is on the top row
-
+  
 |   Layout   | SFB  | LSB  | HSB  | FSB  |
-|------------|------|------|------|------|
+|:----------:|:----:|:----:|:----:|:----:|
 |   Qwerty   | 5.81 | 6.76 | 7.11 | 1.05 |
 |   Dvorak   | 2.62 | 1.17 | 6.11 | 0.14 |
 |   Colemak  | 1.49 | 3.48 | 6.07 | 0.37 |
@@ -42,7 +42,7 @@ The Nerbak layout compared to Qwerty, Dvorak, Colemak, and Colemak DH. I conside
 Same definitions as the above bigrams, however the two letters are separated by any number of other letters on other fingers. The lower the number the longer the time and the less distance for your finger to travel to that second letter
   
 |   Layout   |  SFS  | LSS  | HSS  | FSS  |
-|------------|-------|------|------|------|
+|:----------:|:-----:|:----:|:----:|:----:|
 |   Qwerty   | 11.67 | 8.10 | 7.07 | 1.35 |
 |   Dvorak   | 7.00  | 4.48 | 8.56 | 1.22 |
 |   Colemak  | 7.95  | 2.59 | 6.49 | 0.69 |
@@ -54,9 +54,9 @@ Same definitions as the above bigrams, however the two letters are separated by 
 - Roll (ROL): When one hand presses two keys before or after a keypress by the other hand (RRL, LRR, LLR, or RLL)
 - Onehand (ONE): When all three keypresses are pressed with the same hand and all roll in one direction (Out -> In or In -> Out)
 - Redirect (RED): When all three keypresses are pressed with the same hand and do not roll in one direction (Out -> In -> Out or In -> Out -> In)
-  
+
 |   Layout   |  ALT  |  ROL  | ONE  | RED  |
-|------------|-------|-------|------|------|
+|:----------:|:-----:|:-----:|:----:|:----:|
 |   Qwerty   | 24.29 | 35.73 | 2.27 | 5.51 |
 |   Dvorak   | 41.70 | 37.19 | 0.43 | 2.25 |
 |   Colemak  | 27.58 | 42.78 | 2.45 | 6.74 |

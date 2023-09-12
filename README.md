@@ -36,8 +36,13 @@ ORRRRRR we could look at it like this
   - left / right
   - left weak / right weak
   - left strong / right strong
-- Balance within the hands
-  - weak / strong
+  - left min / right min
+  - left max / right max
+- Balance within each hand
+  - left weak / left strong
+  - right weak / right strong
+  - left min / left max
+  - right min / right max
 
 #### Left Right Balance
 Represented here as 1 - (Left hand usage / Right hand usage). Closer to 0 means more balanced, positive numbers are Right hand dominant, negative numbers are Left hand dominant

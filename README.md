@@ -17,8 +17,8 @@ Read more about the the design theories [here](https://docs.google.com/document/
 - High alternation
 - High rolls
 - Low redirects
-- Low Same Finger Bigrams and Same Finger Skipgrams / Disjointed Same Finger Bigrams
-- Low Ring Finger and Pinky Finger usage and Same Finger Bigrams
+- Low Bigrams and Skipgrams
+- Low Ring and Pinky finger usage
 - Common Keyboard shortcuts (ZXCV) remain accessible
 
 ## Metrics

@@ -106,7 +106,7 @@ Another benefit is that it improves the of characters that do not require a posi
 Decide on the W-B swap. Keep in mind the mb bigram for example.
 
 ## Metrics
-The Nerbak layout compared to Qwerty and Colemak DH. I consider these to be the main competitors.
+The Nerbak layout compared to Qwerty, Dvorak, Colemak, and Colemak DH. I consider these to be Nerbak's main competitors.
 
 Oxey Playground
 
@@ -115,3 +115,34 @@ Oxey Playground
 |   Qwerty   | 6.615 | 11.169 | 6.882 |
 | Colemak DH | 1.387 | 8.877  | 1.957 |
 |   Nerbak   | 1.059 | 7.529  | 1.564 |
+
+KeySolve
+
+Bigrams
+|   Layout   | SFB  | LSB  | HSB  | FSB  |
+|------------|------|------|------|------|
+|   Qwerty   | 0.00 | 0.00 | 0.00 | 0.00 |
+|   Dvorak   | 0.00 | 0.00 | 0.00 | 0.00 |
+|   Colemak  | 0.00 | 0.00 | 0.00 | 0.00 |
+| Colemak DH | 0.00 | 0.00 | 0.00 | 0.00 |
+|   Nerbak   | 1.07 | 2.03 | 3.00 | 0.26 |
+
+Skipgrams
+|   Layout   | SFS  | LSS  | HSS  | FSS  |
+|------------|------|------|------|------|
+|   Qwerty   | 0.00 | 0.00 | 0.00 | 0.00 |
+|   Dvorak   | 0.00 | 0.00 | 0.00 | 0.00 |
+|   Colemak  | 0.00 | 0.00 | 0.00 | 0.00 |
+| Colemak DH | 0.00 | 0.00 | 0.00 | 0.00 |
+|   Nerbak   | 7.16 | 2.87 | 7.15 | 0.64 |
+
+Trigrams
+|   Layout   |  ALT  |  ROL  | ONE  | RED  |
+|------------|-------|-------|------|------|
+|   Qwerty   | 00.00 | 00.00 | 0.00 | 0.00 |
+|   Dvorak   | 00.00 | 00.00 | 0.00 | 0.00 |
+|   Colemak  | 00.00 | 00.00 | 0.00 | 0.00 |
+| Colemak DH | 00.00 | 00.00 | 0.00 | 0.00 |
+|   Nerbak   | 38.47 | 42.45 | 2.41 | 1.68 |
+
+

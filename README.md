@@ -1,15 +1,12 @@
 # Nerbak
-An easy to use alternative keyboard layout implemented with modern design theories. Designed to be a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
+An alternative keyboard layout specifically desgined for ANSI keyboards with modern design theories. Designed to be a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
 Currently a WIP
 
 ### Finger Map
-![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/f2e45729-217e-49c4-9b47-82f1b812885c)
+![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/6e43a65a-588b-406a-bc0c-6f14cb7ef002)
 
 ### Heat Map
-![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/4a7137bc-7abe-40fe-913b-c3e291b90581)
-
-### ANSI Layout with Angle Mod
-![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/1c7d2e2a-80da-43c7-953b-e64f43d03e28)
+![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/3d9884ee-4958-4b23-870b-d18d1bbb168f)
 
 ## Goals
 Read more about the the design theories [here](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit)

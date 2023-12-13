@@ -224,5 +224,9 @@ I would recomend the Angle Mod on an Ansi Keyboard. The row stagger creates some
 Without the angle mod V gets put on the hardest left hand key, but with the angle mod instead it is Z. Considering 1) V is more common than Z and 2) ctrl+v is often used with the right hand on the mouse while ctrl+z is more often used with both hands on the keyboard, this seems like the correct stance.
 Another benefit is that it improves the of characters that do not require a position change from Qwerty. Without the angle mod Z and X retain their position but C and V shift one key right. With the angle mod C and V retain their position and X shifts on key left, Z then gets shifted 4 keys right however C and V are more common than X and Z so keeping their Qwerty positions lowers the learning barrier more than Z and X.
 
-## TBD
-Decide on the W-B swap. Keep in mind the mb bigram for example.
+
+## Next steps
+Create a name and a repository for the following matrix keyboard layout with S on the left thumb
+![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/c1ba3566-0ebd-4507-96e5-9e1293ab30a2)
+
+

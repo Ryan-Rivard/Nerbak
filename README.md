@@ -1,5 +1,5 @@
 # Nerbak
-An alternative keyboard layout specifically desgined for ANSI keyboards with modern design theories. Designed to be a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
+An alternative keyboard layout specifically desgined for ANSI keyboards with modern design theories. Nerbak is a general purpose, efficent, ergonomic, and balanced alternative to the Qwerty, Dvorak, and Colemak keyboard layouts.
 Currently a WIP
 
 ### Finger Map
@@ -148,18 +148,13 @@ Same definitions as the above bigrams, however the two letters are separated by 
 | Colemak DH | 27.58 | 42.78 | 2.45 | 6.74 |
 |   Nerbak   | 38.47 | 42.45 | 2.41 | 1.68 |
 
-## Etymology
-Nerbak takes most of its inspiration from the Nerps layout which is itself a modification of the Nerts layout. The P-B switch was inspired from the Gallium / Graphite / Maya layouts. And the X-Q-J-Z swap to create the ZXMCV row was insipired by the Colemak-DH ZXCDV row,
+## Design
+Nerbak takes most of its inspiration from the Nerps layout which is itself a modification of the Nerts layout. The P-B switch was inspired from the Gallium/Graphite/Maya. Then X-Q-J-Z were swapped to create a ZXMCV row which is inspired from the Colemak-DH ZXCDV row.
 
-As the Nerts / Nerps naming convention was already estabilshed, I internally refered to the P-B swap layout as Nerbs. Add in the Colemak-DH-esq keyboard shortcuts and I added in the Dvorak / Colemak naming convention to arrive at Nerbak.
+For best use on the ANSI keyboard an angle mod was implemented to create the XMCVZ bottom row, and the K-Y switch was a result of testing finding pain from Lateral Bigram Stretch E->Y and Y->E.
 
-## Optional Modifications
-1. W-B swap
-2. Z-V swap on columnar
-3. J-/ swap especially on ansi
-4. '-/ swap
-5. J-/-' swap
-6. K-Y / F-Y swap on ansi
+### Etymology
+As the Nerts / Nerps naming convention was already estabilshed, I internally refered to the P-B swap layout as Nerbs. With the Colemak-DH-esq keyboard shortcut accessibility, I added in the Colemak/Dvorak naming convention to arrive at Nerbak.
 
 ## Space Thumb
 To fully optimaze Nerbak a left thumb space is assumed. Not only is it slightly right hand dominant, but it is also designed for the H + Vowels hand to be opposite of the T + Space hand. This limits redirects while increasing both rolls and redirects.

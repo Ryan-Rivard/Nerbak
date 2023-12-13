@@ -11,7 +11,7 @@ Currently a WIP
 ## Goals
 The primary keyboard layout we in the US deal with day to day is the ANSI standard, however it is largely recognized that the Matrix style keyboard is more ergonomic. I wanted to create a layout that would minimize the weaknesses of the ANSI keyboard for those that could not use a Matrix style keyboard (i.e. money, portability, built in laptop keyboard)
 
-Additionally, the layout must be an improvement on Qwerty and be at least as good (if not better) than other Qwerty alternatives (Colemak, Colemak DH, and Dvorak). To read more about the the keyboard layout design theories click [here](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit)
+Additionally, the layout must be an improvement on Qwerty and be at least as good (if not better) than other Qwerty alternatives (Colemak, Colemak DH, and Dvorak) and retain accessibility of the commone keyboard shortcut keys (ZXCV). To read more about the the keyboard layout design theories click [here](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit)
 
 Here are the metrics which Nerback tries to accomplish
 - High alternation

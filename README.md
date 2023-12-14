@@ -159,54 +159,6 @@ As the Nerts / Nerps naming convention was already estabilshed, I internally ref
 ## Space Thumb
 To fully optimaze Nerbak a left thumb space is assumed. Not only is it slightly right hand dominant, but it is also designed for the H + Vowels hand to be opposite of the T + Space hand. This limits redirects while increasing both rolls and redirects.
 
-## History
-The modern English speaking world is stuck in our ways, Everyday we interact with the most impressive tool mankind has ever created with an interface that was designed in the 1870s. There are plenty of articles and videos that delve more into the Qwerty keyboard layout and its flaws, I will not rehash them here, There are many layouts that have been created attempting to dethrown Qwerty, I have highlighted the ones below that influenced the creation of Nerbak, as well as listed their methodologies that Nerbak adopted and their flaws that Nerbak tried to avoid.
-
-### Dvorak
-Created 1936 by August Dvorak
-
-Adopted Methodologies
-1. The most common letters should be placed on the home row keys to limit total finger travel
-2. All vowels should be placed on one side of the keyboard to increase alternation which anecdotally limits hand fatigue
-3. Fix some of Qwerty's worst same finger bigrams (ED/DE, CE if you don't alt finger C, LO, UN, RT, CT if you do alt finger C, etc.)
-
-Pitfalls
-1. Very low similarities to Qwerty makes it more difficult to learn
-2. Common computer shortcuts (ZXCV) are no longer nccessible with one hand
-3. Still a high frequency of same finger bigrams (GH, E., CT, RN, UP, etc.)
-4. High right hand pinky and ring finger usage 
-
-### Colemak
-Created in 2006 by Shai Coleman
-
-Adopted Methodologies
-1. High similarities to Qwerty make it far easier for Qwerty users to learn
-2. Common computer shortcuts (ZXCV) retain their orinal position
-3. Fix most of both Qwerty and Dvorak's worse same finger bigrams
-4. Minimized ring and pinky finger usage
-
-Pitfalls
-1. The D and H keys being in the center column creates lateral shift bigrams which cause uncomfortable stretching (especially the HE bigram). Dvorak also has high frequency letters on its center column, but its natural alternation helps prevent the lateral stretch issue
-2. With the focus on rolls rather than alternation there is a higher number of redirects (YOU as particularly bad example)
-3. Punctuation retain their original positions in an attempt to make the layout more similar to qwerty, but the trade off is that punctuntion same finger bigrams are noticibly bad
-
-### Workman
-Created in 2010 by OJ Bucao
-
-Adopted Methodology
-1. Fingers reaching and curling are more comfortable than stretching horizontally. Most common letters are on the home keys, not the home row
-2. Fingers have their natural motion taken into account. Index and Pinky fingers are shorter and prefer to curl while Middle and Ring fingers are longer and prefer to stretch. Index and Middle fingers are stronger and can handle more work while Ring and Pinky fingers are weaker and should handle less week
-3. Common computer keyboard shortcuts (ZXCV) are still accessible
-
-Pitfalls
-1. Same finger bigrams are a huge step back, even worse than Dvorak (LY, E,, PO/OP, CT, ect.)
-
-### Colemak DH
-Some stuff on Colemak DH
-
-### Nerts / Nerps
-Some stuff on Nerts / Nerps
-
 ## Goals
 One of the most common recommendations alternative layouts is Colemak DH. It boasts vast metric improvements on Qwerty, while being easy to learn and keeping the common shortcut keys (ZXCV) accessible.
 However it is classified as a more rolling layout, with lower alternation and higher redirects. My goal with Nerbak is to create an alternative to Colemak DH that maintains or improves its metric performance, still remains easy to learn, keeps the common shortcut keys accessable, and increases alternation and limits redirects.

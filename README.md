@@ -175,6 +175,7 @@ Another benefit is that it improves the of characters that do not require a posi
 
 ## Next steps
 Create a name and a repository for the following matrix keyboard layout with S on the left thumb
+(inertia / neurotic}
 ![image](https://github.com/Ryan-Rivard/Nerbak/assets/76035590/c1ba3566-0ebd-4507-96e5-9e1293ab30a2)
 
 
